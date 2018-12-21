@@ -1,0 +1,74 @@
+
+Course Heuristics modified for seasonal changes.
+
+Solving White Course in the Winter: 
+
+Next point is  Control 1: 
+Located 121.26 m away with the heading 40°NNE.
+Control at (248, 327) reached.
+Time taken to reach Control 1: 20.63 seconds.
+
+Total Distance so far: 121.26 m. [0.12 km]
+
+Next point is  Control 2: 
+Located 98.43 m away with the heading 20°NNE.
+Control at (274, 309) reached.
+Time taken to reach Control 2: 49.68 seconds.
+
+Total Distance so far: 219.7 m. [0.1 km]
+
+Next point is  Control 3: 
+Located 93.06 m away with the heading 8°NNE.
+Control at (322, 336) reached.
+Time taken to reach Control 3: 65.82 seconds.
+
+Total Distance so far: 312.76 m. [0.09 km]
+
+Next point is  Control 4: 
+Located 109.84 m away with the heading 33°NNE.
+Control at (300, 360) reached.
+Time taken to reach Control 4: 10.75 seconds.
+
+Total Distance so far: 422.59 m. [0.11 km]
+
+Next point is  Control 5: 
+Located 119.97 m away with the heading 39°NNE.
+Control at (280, 357) reached.
+Time taken to reach Control 5: 28.1 seconds.
+
+Total Distance so far: 542.56 m. [0.12 km]
+
+Next point is  Control 6: 
+Located 120.62 m away with the heading 40°NNE.
+Control at (275, 353) reached.
+Time taken to reach Control 6: 29.21 seconds.
+
+Total Distance so far: 663.18 m. [0.12 km]
+
+Next point is  Control 7: 
+Located 116.82 m away with the heading 38°NNE.
+Control at (274, 346) reached.
+Time taken to reach Control 7: 30.29 seconds.
+
+Total Distance so far: 780.0 m. [0.12 km]
+
+Next point is  Control 8: 
+Located 136.62 m away with the heading 47°ENE.
+Control at (246, 347) reached.
+Time taken to reach Control 8: 36.31 seconds.
+
+Total Distance so far: 916.62 m. [0.14 km]
+
+Next point is  Control 9: 
+Located 130.11 m away with the heading 45°NE.
+Control at (235, 327) reached.
+Time taken to reach Control 9: 38.74 seconds.
+
+Total Distance so far: 1046.73 m. [0.13 km]
+Course solved in 309.54 seconds.
+
+Course path saved as white-output.png
+
+Average walk/run speed to complete the course: 3 MPH.
+Max walk/run speed achieved: 12.5 MPH.
+

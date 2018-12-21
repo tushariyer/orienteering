@@ -1,0 +1,137 @@
+
+Course Heuristics modified for seasonal changes.
+
+Solving Red Course in the Fall: 
+
+Next point is  Control 1: 
+Located 121.26 m away with the heading 40°NNE.
+Control at (248, 327) reached.
+Time taken to reach Control 1: 14.17 seconds.
+
+Total Distance so far: 121.26 m. [0.12 km]
+
+Next point is  Control 2: 
+Located 98.08 m away with the heading 20°NNE.
+Control at (287, 321) reached.
+Time taken to reach Control 2: 59.82 seconds.
+
+Total Distance so far: 219.35 m. [0.1 km]
+
+Next point is  Control 3: 
+Located 99.92 m away with the heading 22°NNE.
+Control at (274, 313) reached.
+Time taken to reach Control 3: 22.87 seconds.
+
+Total Distance so far: 319.27 m. [0.1 km]
+
+Next point is  Control 4: 
+Located 93.21 m away with the heading 9°NNE.
+Control at (295, 310) reached.
+Time taken to reach Control 4: 28.17 seconds.
+
+Total Distance so far: 412.49 m. [0.09 km]
+
+Next point is  Control 5: 
+Located 94.59 m away with the heading 13°NNE.
+Control at (309, 331) reached.
+Time taken to reach Control 5: 38.34 seconds.
+
+Total Distance so far: 507.08 m. [0.09 km]
+
+Next point is  Control 6: 
+Located 102.42 m away with the heading 26°NNE.
+Control at (293, 338) reached.
+Time taken to reach Control 6: 25.82 seconds.
+
+Total Distance so far: 609.5 m. [0.1 km]
+
+Next point is  Control 7: 
+Located 113.23 m away with the heading 35°NNE.
+Control at (264, 330) reached.
+Time taken to reach Control 7: 36.57 seconds.
+
+Total Distance so far: 722.72 m. [0.11 km]
+
+Next point is  Control 8: 
+Located 138.85 m away with the heading 48°ENE.
+Control at (251, 355) reached.
+Time taken to reach Control 8: 51.05 seconds.
+
+Total Distance so far: 861.57 m. [0.14 km]
+
+Next point is  Control 9: 
+Located 146.49 m away with the heading 51°ENE.
+Control at (258, 372) reached.
+Time taken to reach Control 9: 31.85 seconds.
+
+Total Distance so far: 1008.07 m. [0.15 km]
+
+Next point is  Control 10: 
+Located 117.44 m away with the heading 38°NNE.
+Control at (280, 353) reached.
+Time taken to reach Control 10: 46.05 seconds.
+
+Total Distance so far: 1125.51 m. [0.12 km]
+
+Next point is  Control 11: 
+Located 104.24 m away with the heading 28°NNE.
+Control at (317, 366) reached.
+Time taken to reach Control 11: 38.04 seconds.
+
+Total Distance so far: 1229.74 m. [0.1 km]
+
+Next point is  Control 12: 
+Located 92.44 m away with the heading 5°NNE.
+Control at (330, 339) reached.
+Time taken to reach Control 12: 27.53 seconds.
+
+Total Distance so far: 1322.18 m. [0.09 km]
+
+Next point is  Control 13: 
+Located 92.09 m away with the heading 357°NNW.
+Control at (324, 320) reached.
+Time taken to reach Control 13: 21.87 seconds.
+
+Total Distance so far: 1414.27 m. [0.09 km]
+
+Next point is  Control 14: 
+Located 95.34 m away with the heading 344°NNW.
+Control at (311, 286) reached.
+Time taken to reach Control 14: 46.69 seconds.
+
+Total Distance so far: 1509.61 m. [0.1 km]
+
+Next point is  Control 15: 
+Located 125.26 m away with the heading 317°NNW.
+Control at (327, 242) reached.
+Time taken to reach Control 15: 40.48 seconds.
+
+Total Distance so far: 1634.86 m. [0.13 km]
+
+Next point is  Control 16: 
+Located 114.4 m away with the heading 323°NNW.
+Control at (308, 240) reached.
+Time taken to reach Control 16: 28.51 seconds.
+
+Total Distance so far: 1749.27 m. [0.11 km]
+
+Next point is  Control 17: 
+Located 92.02 m away with the heading 358°NNW.
+Control at (281, 279) reached.
+Time taken to reach Control 17: 46.57 seconds.
+
+Total Distance so far: 1841.29 m. [0.09 km]
+
+Next point is  Control 18: 
+Located 130.11 m away with the heading 45°NE.
+Control at (235, 327) reached.
+Time taken to reach Control 18: 29.48 seconds.
+
+Total Distance so far: 1971.39 m. [0.13 km]
+Course solved in 633.88 seconds.
+
+Course path saved as red-output.png
+
+Average walk/run speed to complete the course: 3 MPH.
+Max walk/run speed achieved: 12.5 MPH.
+
